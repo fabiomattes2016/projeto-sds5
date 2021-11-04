@@ -1,1 +1,1 @@
-DevSuperior logo Semana Spring React
+DevSuperior Semana Spring React
